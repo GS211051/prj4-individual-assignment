@@ -53,3 +53,12 @@ body {
 .company-color {
 	color: #3B5A9A;
 }
+
+.font-change {
+	font-family: 'Genos', sans-serif;
+}
+
+
+.background-new{
+	background-color: aqua;
+}

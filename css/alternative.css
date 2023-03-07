@@ -74,7 +74,7 @@ footer {
 	min-width: 80px;
 	display: flex;
 	flex-flow: column;
-	background-color: #112A7C;
+	background-color: #FFFFFF;
 	color: #f0f0f0;
 	height: 100%;
 	background-image: linear-gradient(to bottom, rgba(255, 255, 255, .1), transparent);
